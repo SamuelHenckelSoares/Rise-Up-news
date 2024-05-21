@@ -25,7 +25,7 @@ function App() {
         <div >
             <h1 align="center" >Vamos estudar o curso.dev?</h1>
             <div align="center">
-                <button onClick={handleSimClick}>Sim</button>
+                <button onClick={handleSimClick}>É Claro</button>
                 <button onClick={handleNaoClick}>Não</button>
             </div>
 

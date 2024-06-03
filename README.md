@@ -50,3 +50,87 @@ git diff - calcula a diferença entre as versões/alterações dos arquivos.
 # Link de acesso ao Site criado com o Vercel:
 
 https://rise-up-news.vercel.app/
+
+# DNS:
+
+## Aprendizado sobre SPF:
+
+https://kinsta.com/pt/base-de-conhecimento/registro-spf/
+
+## Site para verificar se o DNS tá ativo:
+
+https://www.whatsmydns.net/
+
+## CTF:
+
+aHR0cHM6Ly9jdXJzby5kZXYvd2ViL2Rucy1oNGNrM3I=
+
+https://conversordetexto.com.br/descriptografar-texto-em-base64
+
+https://curso.dev/web/dns-h4ck3r
+
+# Estudo sobre Organização e Planejamento:
+
+## Nível 1 - Lembrar o que precisa Fazer:
+
+Menor custo de produção
+Menor tempo de Aquecimento
+
+## Nível 2 - Ser lembrado em grupo:
+
+Marcação de progresso.
+
+## Nível 3 - Expandir Conhecimento:
+
+Usar um board de tasks
+
+## Nível 4 - Gerar métricas:
+
+Acompanhamento semanal
+Board
+Reuniões de alinhamento.
+
+## Obs:
+
+É preciso mensurar qual o nível de organização é preciso usar para cada caso.
+
+### Quando se planeja muito, se executa pouco, e quando se planeja pouco se executa muito.
+
+# Hábitos ângulares:
+
+São todos os hábitos que quando é mudado/executado, muda outros hábitos e aspectos do dia a dia como consequência.
+
+## Exemplo de hábitos ângulares:
+
+1. Práticar exercícios.
+2. Melhorar a alimentação.
+3. Meditação.
+4. Leitura ( é uma mentoria diária )
+5. Aprender a aprender.
+
+# Milestones ( Grandes pedras ):
+
+É uma forma de mensurar e organizar as principais etapas de um projeto, onde milestones são grandes blocos de pedra que precisam der repartidos em pedaços menores para que seja possível serem executados.
+
+## M0 - Why? Por que desenvolver o que está sendo pensado?
+
+-> Rise Up Treasure:
+Projeto será tipo o tab news mas para colocar estudos da palavra, sobre tópicos onde iremos juntos aprofundar na leitura da palavra.
+
+-> Criar um Ambiente onde posso disponibilizar meu curso de desenvolvimento ABAP, e disponibilizar as informações de conteúdo que já estou fazendo no meu notion.
+
+## M1 - Fundação (Definição: Tecnologias, hospedagem, banco de dados.)
+
+## M2 - Login | Banco de Dados.
+
+## M3 Página Inicial e sub páginas.
+
+## M4 - Comentários e Sub Comentários.
+
+## M5 - Classificação Coins/Premiação
+
+## M6 - Motor de pesquizas.
+
+## M7 - Ajustes Finos | Acessibilidade.
+
+## M8 - Publicação.

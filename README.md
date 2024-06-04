@@ -134,3 +134,15 @@ Projeto será tipo o tab news mas para colocar estudos da palavra, sobre tópico
 ## M7 - Ajustes Finos | Acessibilidade.
 
 ## M8 - Publicação.
+
+## TDD: Test Driven Development:
+
+Desenvolvimento orientado por testes.
+
+Aqui os testes orientam o que devem ser feito no código...
+
+# MVC: ( Model | View | Control ):
+
+## Model:
+
+A pasta Models não passa de uma caixa de ferramentas, onde cada parte de código lá dentro é uma ferramenta que pode ser utilizada quando precisarmos. Isso são as "Funções".

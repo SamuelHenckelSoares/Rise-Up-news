@@ -146,3 +146,9 @@ Aqui os testes orientam o que devem ser feito no código...
 ## Model:
 
 A pasta Models não passa de uma caixa de ferramentas, onde cada parte de código lá dentro é uma ferramenta que pode ser utilizada quando precisarmos. Isso são as "Funções".
+
+# Docker:
+
+## Comandos:
+
+docker compose -f infra/compose.yaml up

@@ -135,11 +135,13 @@ Projeto será tipo o tab news mas para colocar estudos da palavra, sobre tópico
 
 ## M8 - Publicação.
 
-## TDD: Test Driven Development:
+## TDD: Test Driven Development: ( Dia 15 )
 
 Desenvolvimento orientado por testes.
 
 Aqui os testes orientam o que devem ser feito no código...
+
+### O tesrunner que foi escolhido para uso no desenvolvimento foi o JEST.
 
 # MVC: ( Model | View | Control ):
 
@@ -147,8 +149,35 @@ Aqui os testes orientam o que devem ser feito no código...
 
 A pasta Models não passa de uma caixa de ferramentas, onde cada parte de código lá dentro é uma ferramenta que pode ser utilizada quando precisarmos. Isso são as "Funções".
 
+# Banco de Dados em SQL escolhido foi POSTGRESS
+
+Stack do banco: Postgres
+Módulo PG para conexões e Queryes
+Módulo node-pg-migrations para migrations.
+
 # Docker:
 
 ## Comandos:
 
 docker compose -f infra/compose.yaml up
+
+# Convenções:
+
+camelCase -
+snake_case -
+
+## Timestamp:
+
+const updatedAt = new Date().toISOString(); // Formato ISO 8601
+
+# Desafio da aula 20:
+
+Retornar no JSON:
+
+1.  Versão do Postgres.
+2.  Nº de Conexões máximas do Banco de Dados.
+3.  Nº de Conexões utilizadas.
+
+E fazer os testes para cobrirem isso também.
+
+-> Reassistir as pistas rápidas do dia 13 ao 20..
